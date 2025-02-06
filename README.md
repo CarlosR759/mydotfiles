@@ -1,1 +1,3 @@
-<center> <h1> My Dotfiles  </h1> </center>
+<div align="center">
+	# My dotfiles
+</div>
